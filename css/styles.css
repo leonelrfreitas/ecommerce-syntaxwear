@@ -100,12 +100,14 @@ a {
   background: linear-gradient(135deg, #f2ede7 0%, #f8f5f1 100%);
 }
 
-.hero-content {
-  display: grid;
-  grid-template-columns: 1.1fr 0.9fr;
-  align-items: center;
-  gap: 3rem;
-}
+ /* .hero-content {
+   display: grid;
+   grid-template-columns: 1.1fr 0.9fr;
+   align-items: center;
+   gap: 3rem; 
+  
+   este código criado pela IA estava sobreescrevendo meu código por isso não estava aplicando o estilo que eu queria, estava quebrando.
+}  */
 
 .eyebrow {
   display: inline-block;
